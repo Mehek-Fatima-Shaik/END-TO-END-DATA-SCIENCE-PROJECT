@@ -106,3 +106,8 @@ internships and jobs in the field of AI and Data Science.
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/ef655896-44c1-4ee8-a522-e87f4d22283e)
+
+![Image](https://github.com/user-attachments/assets/97765086-5e6b-45c5-8238-593856cd4d35)
+
+![Image](https://github.com/user-attachments/assets/c2923aa8-3f7b-4c07-8116-26372e40dd5a)
